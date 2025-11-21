@@ -21,5 +21,45 @@ The business requires a clear understanding of what drives sales performance. Sp
 Data Storage:CSV file <br>
 Visualization:Power BI
 
+<h2>Key Performance Indicators (KPIs)</h2>
+<p>These are the core metrics that will be measured, analyzed, and tracked:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>KPI</th>
+      <th>Formula / Calculation</th>
+      <th>Business Significance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Total Revenue</td>
+      <td>SUM of Amount</td>
+      <td>The primary measure of financial success.</td>
+    </tr>
+    <tr>
+      <td>Total Volume</td>
+      <td>SUM of Boxes</td>
+      <td>Measures physical units sold, useful for inventory planning.</td>
+    </tr>
+    <tr>
+      <td>Cancellation Rate</td>
+      <td>(COUNT of 'Cancelled' orders / Total COUNT of orders) * 100</td>
+      <td>Efficiency of the sales and logistics pipeline; high rates indicate problems.</td>
+    </tr>
+    <tr>
+      <td>Average Order Value (AOV)</td>
+      <td>Total Revenue / Total COUNT of orders</td>
+      <td>Indicates the quality or size of an average transaction.</td>
+    </tr>
+    <tr>
+      <td>Revenue per Salesperson</td>
+      <td>Total Revenue / COUNT of unique Sales Person</td>
+      <td>Measures individual team performance.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
