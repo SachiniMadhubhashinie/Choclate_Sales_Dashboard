@@ -1,2 +1,2 @@
 # Choclate_Sales_Dashboard
-🍫 Chocolate Sales Dashboard provides a 13-month view of sales performance, with $17.92M total sales and 1M boxes sold. Sales peaked mid-period and declined toward the end. Top markets are USA and India, top products are Drinking Coco &amp; Orange Choco, and top salesperson is Wilone O'Kielt.
+This project analyzes historical sales data for a chocolate company to uncover key trends, evaluate product and regional performance, and assess sales efficiency. Using  Excel, and Power BI , the analysis highlights top-performing products, sales patterns, cancellation rates, and seasonal trends, providing actionable insights to optimize marketing, inventory, and sales strategies.
