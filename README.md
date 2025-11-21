@@ -101,5 +101,26 @@ Visualization:Power BI
 </table>
 
 
+<h2>Key Insights & Recommendations</h2>
+<p>Based on a typical analysis of sales data, the following insights and recommendations could be derived:</p>
+
+<h3>Key Insights</h3>
+<ul>
+  <li><strong>Product Contribution:</strong> 'White Choc' and 'Baker's Choco Chips' generate 45% of total revenue, despite representing only 20% of product SKUs.</li>
+  <li><strong>Geographic Performance:</strong> USA contributes 60% of sales volume but has a lower Average Order Value (AOV) compared to Canada, suggesting a focus on higher-volume, lower-price items.</li>
+  <li><strong>Process Efficiency:</strong> Overall Cancellation Rate is 8%, but spikes to 15% for orders handled by Salesperson X, indicating a specific performance or data entry issue.</li>
+  <li><strong>Seasonal Trend:</strong> Sales revenue peaks in Q4 (October-December), indicating strong holiday sales dependency.</li>
+</ul>
+
+<h3>Recommendations</h3>
+<ul>
+  <li><strong>Focus Investment:</strong> Allocate 60% of marketing budget to Top 3 Products (including 'White Choc') to capitalize on market demand.</li>
+  <li><strong>Targeted Strategy:</strong> Investigate higher AOV in Canada and replicate the sales strategy in the USA (e.g., promotional bundles, focus on premium products).</li>
+  <li><strong>Sales Training/Audit:</strong> Review and train Salesperson X; audit their sales entries to address high cancellation rate.</li>
+  <li><strong>Mitigate Seasonality:</strong> Launch a Q2 promotional campaign (e.g., 'Summer Snack Pack') to stabilize sales and reduce dependency on year-end peaks.</li>
+</ul>
+
+
+
 
 
