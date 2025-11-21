@@ -61,5 +61,45 @@ Visualization:Power BI
 </table>
 
 
+<h2>Chart Requirements and Analysis</h2>
+<p>To answer the Problem Statement, the analysis should produce the following key visualizations:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Chart Type</th>
+      <th>Analysis Goal</th>
+      <th>Data Columns Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bar Chart</td>
+      <td>Top N Products by Revenue (Pareto Analysis)</td>
+      <td>Product, Amount</td>
+    </tr>
+    <tr>
+      <td>Geographic Map</td>
+      <td>Total Revenue by Country</td>
+      <td>Country, Amount</td>
+    </tr>
+    <tr>
+      <td>Line Chart</td>
+      <td>Revenue Trend Over Time (Monthly/Quarterly)</td>
+      <td>Date, Amount</td>
+    </tr>
+    <tr>
+      <td>Stacked Bar Chart</td>
+      <td>Order Status Breakdown per Product/Salesperson</td>
+      <td>Product or Sales Person, Order Status, Amount</td>
+    </tr>
+    <tr>
+      <td>Scatter Plot</td>
+      <td>Relationship between Boxes (Volume) and Amount (Revenue)</td>
+      <td>Boxes, Amount</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
