@@ -17,5 +17,9 @@ The business requires a clear understanding of what drives sales performance. Sp
   <li>When are the peak sales periods (seasonality/time series analysis)?</li>
 </ul>
 
+<h2>Technology Stack</h2>
+Data Storage:CSV file <br>
+Visualization:Power BI
+
 
 
